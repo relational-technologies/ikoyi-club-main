@@ -7,6 +7,7 @@
     "summary": "Allow admin to set password security requirements.",
     "version": "14.0.1.0.0",
     "author": "LasLabs, "
+    "Femi Oloyede, "
     "Kaushal Prajapati, "
     "Tecnativa, "
     "initOS GmbH, "
@@ -19,7 +20,7 @@
     ],
     "website": "https://github.com/OCA/server-auth",
     "external_dependencies": {
-        "python": ["zxcvbn"],
+        "python": "python 3.10.7",
     },
     "license": "LGPL-3",
     "data": [
