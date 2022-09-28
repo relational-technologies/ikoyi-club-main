@@ -20,7 +20,7 @@
     ],
     "website": "https://github.com/OCA/server-auth",
     "external_dependencies": {
-        "python": "python 3.10.7",
+        "python": "zxcvbn",
     },
     "license": "LGPL-3",
     "data": [
